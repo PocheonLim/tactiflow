@@ -1,9 +1,0 @@
-schema: spec-driven
-
-context: |
-  Project: Tactiflow
-  Tech stack: Next.js, React, TypeScript, Tailwind CSS
-  Package manager: npm
-  UI language: Korean
-  Use App Router
-  Keep implementation simple and scoped
